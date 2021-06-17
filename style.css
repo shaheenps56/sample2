@@ -1,0 +1,21 @@
+.row{
+    font-size: 20px;
+    border-radius: 15px;
+    background:hsl(0, 0%, 100%);
+    color:rgb(0, 0, 0);
+}
+.carousel-inner{
+    height: 700px;
+    width: 500px;
+    border-radius: 25px;
+}
+.welcome{
+    position: relative;
+    text-align:right;
+    font-size: xx-large;
+    top:350px;
+    right:-200px;
+    transform: translate(-50%);
+    color:rgb(24, 9, 9);
+    z-index:1;
+}
